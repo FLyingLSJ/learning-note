@@ -1,0 +1,7 @@
+链接: https://pan.baidu.com/s/11d2vDwYVlwx50kwhjBSuRA 提取码: jhmm
+
+python深度学习代码和数据集.iso： 含课程代码中文注释版和数据集，建议用keras2.0.8以上，tensorflow 1.8，python 3.6环境下运行。
+
+代码html版.zip：课程代码的html版本，仅供阅读。
+
+以上两者内容一致。

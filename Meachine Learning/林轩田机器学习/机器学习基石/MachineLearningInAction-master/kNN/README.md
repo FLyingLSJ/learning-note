@@ -1,3 +1,0 @@
-## kNN
-
-- KNN.ipynb
